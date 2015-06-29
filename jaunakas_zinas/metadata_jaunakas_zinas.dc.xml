@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tel:BibliographicResource xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:telapi="http://data.theeuropeanlibrary.org/API/" xmlns:tel="http://data.theeuropeanlibrary.org/Ontology/">
+    <dc:identifier>http://data.theeuropeanlibrary.org/BibliographicResource/3000059923367</dc:identifier>
+    <dc:relation>http://data.theeuropeanlibrary.org/Collection/a0617</dc:relation>
+    <dc:language xml:lang="eng">Latvian</dc:language>
+    <dc:date>1911-12-08 - 1936-05-11</dc:date>
+    <dc:title xml:lang="ltg">Jaunākās Ziņas</dc:title>
+    <dc:type>Newspaper Title</dc:type>
+    <dc:relation>Europeana Newspapers</dc:relation>
+    <dc:type xml:lang="eng">Text</dc:type>
+    <dc:rights>http://creativecommons.org/publicdomain/mark/</dc:rights>
+    <dc:identifier>http://www.theeuropeanlibrary.org/tel4/newspapers/title/3000059923367</dc:identifier>
+    <dc:source xml:lang="eng">Metadata aggregated by The European Library</dc:source>
+    <dc:source xml:lang="eng">Metadata provided by National Library of Latvia</dc:source>
+    <dc:rights>This metadata record is licensed under: http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+</tel:BibliographicResource>

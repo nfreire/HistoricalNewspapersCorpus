@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tel:BibliographicResource xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:telapi="http://data.theeuropeanlibrary.org/API/" xmlns:tel="http://data.theeuropeanlibrary.org/Ontology/">
+    <dc:identifier>http://data.theeuropeanlibrary.org/BibliographicResource/3000059928379</dc:identifier>
+    <dc:relation>http://data.theeuropeanlibrary.org/Collection/a0617</dc:relation>
+    <dc:language xml:lang="eng">Latvian</dc:language>
+    <dc:date>1935-05-14</dc:date>
+    <dc:title xml:lang="ltg">Jaunākās Ziņas</dc:title>
+    <dc:description>lav
+            Goth
+            Latn</dc:description>
+    <dc:type>Newspaper Issue</dc:type>
+    <dc:relation>Europeana Newspapers</dc:relation>
+    <dc:source>http://data.lnb.lv/digitala_biblioteka/laikraksti/JaunakasZinas/index.htm</dc:source>
+    <dc:type xml:lang="eng">Text</dc:type>
+    <dc:rights>http://creativecommons.org/publicdomain/mark/</dc:rights>
+    <dc:identifier>http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000059928379</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_001.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_002.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_003.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_004.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_005.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_006.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_007.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_008.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_009.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_010.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_011.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_012.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_013.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_014.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_015.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_016.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_017.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_018.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_019.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_020.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_021.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_022.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_023.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_024.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_025.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_026.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_027.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_028.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_029.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_030.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_031.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_032.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_033.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_034.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_035.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_036.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_037.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_038.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_039.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_040.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_041.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_042.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_043.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_044.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_045.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_046.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_047.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1935/05/14/pa001_jazi1935n108_048.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://www.theeuropeanlibrary.org/tel4/newspapers/issue/fullscreen/3000059928379</dc:identifier>
+    <dc:source xml:lang="eng">Metadata aggregated by The European Library</dc:source>
+    <dc:source xml:lang="eng">Metadata provided by National Library of Latvia</dc:source>
+    <dc:rights>This metadata record is licensed under: http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+</tel:BibliographicResource>

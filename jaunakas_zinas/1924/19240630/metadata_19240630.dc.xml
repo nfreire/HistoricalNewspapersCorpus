@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tel:BibliographicResource xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:telapi="http://data.theeuropeanlibrary.org/API/" xmlns:tel="http://data.theeuropeanlibrary.org/Ontology/">
+    <dc:identifier>http://data.theeuropeanlibrary.org/BibliographicResource/3000059926737</dc:identifier>
+    <dc:relation>http://data.theeuropeanlibrary.org/Collection/a0617</dc:relation>
+    <dc:language xml:lang="eng">Latvian</dc:language>
+    <dc:date>1924-06-30</dc:date>
+    <dc:title xml:lang="ltg">Jaunākās Ziņas</dc:title>
+    <dc:description>lav
+            Goth
+            Latn</dc:description>
+    <dc:type>Newspaper Issue</dc:type>
+    <dc:relation>Europeana Newspapers</dc:relation>
+    <dc:source>http://data.lnb.lv/digitala_biblioteka/laikraksti/JaunakasZinas/index.htm</dc:source>
+    <dc:type xml:lang="eng">Text</dc:type>
+    <dc:rights>http://creativecommons.org/publicdomain/mark/</dc:rights>
+    <dc:identifier>http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000059926737</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1924/06/30/JaunakasZinas1924-143-01.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1924/06/30/JaunakasZinas1924-143-02.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1924/06/30/JaunakasZinas1924-143-03.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1924/06/30/JaunakasZinas1924-143-04.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1924/06/30/JaunakasZinas1924-143-05.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1924/06/30/JaunakasZinas1924-143-06.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1924/06/30/JaunakasZinas1924-143-07.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1924/06/30/JaunakasZinas1924-143-08.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1924/06/30/JaunakasZinas1924-143-09.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1924/06/30/JaunakasZinas1924-143-10.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1924/06/30/JaunakasZinas1924-143-11.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1924/06/30/JaunakasZinas1924-143-12.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://www.theeuropeanlibrary.org/tel4/newspapers/issue/fullscreen/3000059926737</dc:identifier>
+    <dc:source xml:lang="eng">Metadata aggregated by The European Library</dc:source>
+    <dc:source xml:lang="eng">Metadata provided by National Library of Latvia</dc:source>
+    <dc:rights>This metadata record is licensed under: http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+</tel:BibliographicResource>

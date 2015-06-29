@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tel:BibliographicResource xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:telapi="http://data.theeuropeanlibrary.org/API/" xmlns:tel="http://data.theeuropeanlibrary.org/Ontology/">
+    <dc:identifier>http://data.theeuropeanlibrary.org/BibliographicResource/3000059926560</dc:identifier>
+    <dc:relation>http://data.theeuropeanlibrary.org/Collection/a0617</dc:relation>
+    <dc:language xml:lang="eng">Latvian</dc:language>
+    <dc:date>1925-12-05</dc:date>
+    <dc:title xml:lang="ltg">Jaunākās Ziņas</dc:title>
+    <dc:description>lav
+            Goth
+            Latn</dc:description>
+    <dc:type>Newspaper Issue</dc:type>
+    <dc:relation>Europeana Newspapers</dc:relation>
+    <dc:source>http://data.lnb.lv/digitala_biblioteka/laikraksti/JaunakasZinas/index.htm</dc:source>
+    <dc:type xml:lang="eng">Text</dc:type>
+    <dc:rights>http://creativecommons.org/publicdomain/mark/</dc:rights>
+    <dc:identifier>http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000059926560</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1925/12/05/JZ7741925.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1925/12/05/JZ7751925.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1925/12/05/JZ7761925.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1925/12/05/JZ7771925.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1925/12/05/JZ7781925.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1925/12/05/JZ7791925.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1925/12/05/JZ7801925.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1925/12/05/JZ7811925.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1925/12/05/JZ7821925.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1925/12/05/JZ7831925.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1925/12/05/JZ7841925.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1925/12/05/JZ7851925.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1925/12/05/JZ7861925.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1925/12/05/JZ7871925.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1925/12/05/JZ7881925.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1925/12/05/JZ7891925.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1925/12/05/JZ7901925.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1925/12/05/JZ7911925.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1925/12/05/JZ7921925.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1925/12/05/JZ7931925.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1925/12/05/JZ7941925.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1925/12/05/JZ7951925.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1925/12/05/JZ7961925.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1925/12/05/JZ7971925.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1925/12/05/JZ7981925.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1925/12/05/JZ7991925.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1925/12/05/JZ8001925.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://port2.theeuropeanlibrary.org/fcgi-bin/iipsrv2.fcgi?FIF=node-1/image/NLL/Jaunākās_Ziņas/1925/12/05/JZ8011925.jp2&amp;wid=200&amp;cvt=jpg</dc:identifier>
+    <dc:identifier>http://www.theeuropeanlibrary.org/tel4/newspapers/issue/fullscreen/3000059926560</dc:identifier>
+    <dc:source xml:lang="eng">Metadata aggregated by The European Library</dc:source>
+    <dc:source xml:lang="eng">Metadata provided by National Library of Latvia</dc:source>
+    <dc:rights>This metadata record is licensed under: http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+</tel:BibliographicResource>
